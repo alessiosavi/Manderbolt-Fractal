@@ -1,0 +1,4 @@
+Frattale di Manderblot
+Scorro i pixel dello schermo e li trasformo in un numero complesso 'c' che inserisco nella successione Zn=Z(n-1)+c. Zn è numero complesso.
+La successione va eseguito fino a che n=1000(1000 cicli) oppure fino a quando il valore assoluto tra |Zn- c|>2
+Il colore va cambiato in base al colore di n. Creo una funzione che colora in base al numero 'n' (n da 0 a 100 blu, da 101 a 200 rosso ecc.).
